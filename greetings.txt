@@ -1,5 +1,10 @@
 Hello dev squaaaaaaadd !!!
+<<<<<<< HEAD
 
 Hello Tatijana, wassup ???
 
 Hello i'm conflicted !!!
+=======
+hey hey heyyyyyy conflict is coming
+Hello Tatijana, wassup ???
+>>>>>>> 5084b10907280ef932ca6f05cd68784eeab5efe3
